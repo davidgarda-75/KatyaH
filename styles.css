@@ -2,20 +2,24 @@
 h1{
     font-family: 'Roboto', sans-serif;
     font-size: 3em;
+    color: rgb(65, 63, 63);
 }
 h2{
     font-family: 'Roboto', sans-serif;
     font-size: 2em;
     font-weight: 100;
+    color: rgb(65, 63, 63);
 }
 h3{
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
     font-weight: 100;
+    color: rgb(65, 63, 63);
 }
 p{
     font-family: 'Roboto', sans-serif; 
     font-weight: 400;
+    color: rgb(65, 63, 63);
 }
 li{
     font-family: 'Roboto', sans-serif; 
@@ -50,6 +54,7 @@ li{
 }
 #page_title{
     display: none;
+    color: rgb(65, 63, 63);
 }
 .special{
     font-size: 6em;
@@ -81,4 +86,75 @@ li{
 }
 .cinta{
     max-width: 25%;
+}
+.logolargo{
+    max-width: 90%;
+}
+.branding{
+    padding-left: 20px;
+}
+#slogan{
+    font-family: 'Roboto', sans-serif; 
+    font-size: 3em;
+    font-weight: 700;
+    padding-left: 50px;
+    color: rgb(65, 63, 63);
+}
+#about_title{
+    padding-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    color: rgb(65, 63, 63);
+}
+#about_description{
+    padding-left: 100px;
+    padding-right;: 100px
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+    color: rgb(65, 63, 63);
+}
+#about1_description{
+    padding-left: 100px;
+    padding-right;: 200px
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+    color: rgb(65, 63, 63);
+}
+#about12_description{
+    padding-left: 100px;
+    padding-right;: 200px
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+    color: rgb(65, 63, 63);
+}
+
+#subscribe1_title{
+    padding-left: 500px;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 800;
+    color: rgb(65, 63, 63);
+}
+#subscribe_title{
+    padding-left: 550px;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+    color: rgb(65, 63, 63);  
+}
+#subscribe12_title{
+    padding-left: 595px;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+    color: rgb(65, 63, 63);  
+}
+#subscribebox{
+    padding-left: 550px;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+    color: rgb(65, 63, 63); 
+}
+#subscribe123_description{
+    padding-left: 500px;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+    color: rgb(65, 63, 63);  
 }
